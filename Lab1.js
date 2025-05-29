@@ -12,4 +12,3 @@ const data = fs.readFile('./temp.txt','utf8',(error,data)=>{
     }
 });
 
-

@@ -1,0 +1,40 @@
+[
+    {
+        "brand": "Toyota",
+        "type": "SUV",
+        "year": 2012,
+        "mode" : "gasoline",
+        "address":{
+            "no": 7,
+            "street": "Danton"
+        } 
+    },
+
+    {
+        "brand": "Mazda",
+        "type": "SUV",
+        "year": 2018,
+        "mode" : "electric"  
+    },
+
+    {
+        "brand": "KIA",
+        "type": "SUV",
+        "year": 2020,
+        "mode" : "hybrid"  
+    },
+
+    {
+        "brand": "Mercedes",
+        "type": "SUV",
+        "year": 2021 ,
+        "mode" : "electric"  
+    },
+
+    {
+        "brand": "Toyota",
+        "type": "SUV",
+        "year": 2012,
+        "mode" : "hybrid"   
+    }
+]
